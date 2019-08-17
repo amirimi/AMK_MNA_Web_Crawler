@@ -3,16 +3,16 @@ A web crawler system via python:)
 
 
 ## Screenshots
-<img align="center" src="https://github.com/AMK9978/AMK_MNA_Web_Crawler/blob/master/ScreenShots/web.JPG?raw=true." alt="Spire the Hare" title="ScreenShot1" width="900px">
+<img align="center" src="https://github.com/amirimi/AMK_MNA_Web_Crawler/blob/master/ScreenShots/web.JPG?raw=true." alt="Spire the Hare" title="ScreenShot1" width="900px">
 
-<img align="center" src="https://github.com/AMK9978/AMK_MNA_Web_Crawler/blob/master/ScreenShots/web2.JPG?raw=true." alt="Spire the Hare" title="ScreenShot" width="900px">
+<img align="center" src="https://github.com/amirimi/AMK_MNA_Web_Crawler/blob/master/ScreenShots/web2.JPG?raw=true." alt="Spire the Hare" title="ScreenShot" width="900px">
 
-<img align="center" src="https://github.com/AMK9978/AMK_MNA_Web_Crawler/blob/master/ScreenShots/web3.JPG?raw=true." alt="Spire the Hare" title="ScreenShot3" width="900px">
+<img align="center" src="https://github.com/amirimi/AMK_MNA_Web_Crawler/blob/master/ScreenShots/web3.JPG?raw=true." alt="Spire the Hare" title="ScreenShot3" width="900px">
 
 ## Quick Start
 
 ```
-git clone https://github.com/AMK9978/AMK_MNA_Web_Crawler.git
+git clone https://github.com/amirimi/AMK_MNA_Web_Crawler.git
 pip install requirements.txt
 py Main.py
 ```
@@ -33,7 +33,7 @@ and finally represent them as a html file and also make its directories and save
 
 ## Authors
 
-* **Amir Muhammad Karimi** - [AMK9978](https://github.com/amk9978)
+* **Amir Muhammad Karimi** - [amirimi](https://github.com/amirimi)
 * **Mehrnoush Alipour** - [Mehrnoush504](https://github.com/mehrnoush504)
 
 ## License
